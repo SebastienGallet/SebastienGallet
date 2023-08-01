@@ -1,1 +1,18 @@
+# 💫 About Me:
+Hello 👋<br><br>Je suis Sébastien, développeur Front-End et Expert SEO basé dans le nord de la France. En tant qu'autodidacte passionné, j'ai acquis des compétences en développement web depuis 2020 et validé mes acquis en 2022. <br>Parallèlement, j'accompagne également des étudiants en parcours d'intégrateur web en tant que mentor.<br><br>‍🚀 Étant assez polyvalent, je peux vous accompagner dans la création de votre site web, l'intégration d'une maquette, la création d'un site vitrine ou dynamique, l'amélioration du référencement (SEO).<br><br>‍💻 Je développe principalement avec :<br>▪️ HTML<br>▪️ CSS / SASS<br>▪️ JavaScript<br>▪️ React.js<br>▪️ Bootstrap<br>▪️ WordPress<br><br>💎 Respect des bonnes pratiques :<br>▪️ Responsive design<br>▪️ Optimisation du référencement (SEO)<br>▪️ Cybersécurité<br><br>👉 Au-delà d'une simple prestation de développement, je peux vous apporter un conseil marketing grâce à mon expérience dans ce domaine, ainsi que vous accompagner dans le design de vos projets (Photoshop).<br><br>💼 Portfolio : sebastiengallet.com<br>N'hésitez pas à me contacter, je me ferai un plaisir de vous répondre !
 
+
+## 🌐 Socials:
+[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/sebastiengallet.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sebastien-gallet/) 
+
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=SebastienGallet&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=SebastienGallet&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SebastienGallet&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+### 😂 Random Dev Meme
+<img src="https://rm.up.railway.app/" width="512px"/>
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
